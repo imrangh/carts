@@ -1,4 +1,4 @@
-peline {
+pieline {
     agent any
 
    tools {
